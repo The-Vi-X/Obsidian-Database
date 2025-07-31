@@ -1,6 +1,5 @@
 # Linux Fundamentals
 **← К разделу:** [[0. Fundamentals]]  
-**Основные команды для старта:** [[Hack-In]]
 **Чит-щит команд:** [[Linux Cheat Sheet]]
 
 [[Навигация]]
@@ -14,6 +13,7 @@
 * `mv old.txt new.txt` - Переименование/перемещение #linux #command
 * `rm -r dir/` - ⚠️ Удалить папку рекурсивно #linux #command #danger
 * `mkdir project` - Создать папку #linux #command
+* `.` - часть имени файла, делает файл скрытым #linux
 
 [[Просмотр файлов]]
 * `cat log.txt` - Вывести весь файл #linux #command
@@ -32,6 +32,10 @@
 [[Установка ПО]]
 * `sudo apt update` - Обновить список пакетов #linux #command
 * `sudo apt install nmap` - Установить пакет #linux #command #tool
+
+[[Информация о файлах]]
+`du file` - определяет, сколько места занимает файл #linux #command 
+`file file` - определяет тип файла #linux #command
 
 [[Помощь с командами]]
 * `man ls` - Полное руководство #linux #command #help
