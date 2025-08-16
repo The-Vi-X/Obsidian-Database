@@ -15,6 +15,9 @@
 * `mkdir project` - Создать папку #linux #command
 * `.` - часть имени файла, делает файл скрытым #linux
 
+[[Работа с текстом]]
+- `tr 'symbols' 'symbols2' [file] ` - команда, которая удаляет, преобразует или заменяет символы по определённым паттернам #linux #command #text
+
 [[Просмотр файлов]]
 * `cat log.txt` - Вывести весь файл #linux #command
 * `less large_file.log` - Просмотр с прокруткой #linux #command
@@ -49,3 +52,6 @@
 
 [[Удалённый доступ]]
 - `ssh ip -l login` - защищённое соединение к удалённому терминалу #linux #command #ssh #connection
+
+[[Кодировки]]
+- `base64` - кодирование бинарных файлов (1 и 0) в символы #linux #base64 #encoding

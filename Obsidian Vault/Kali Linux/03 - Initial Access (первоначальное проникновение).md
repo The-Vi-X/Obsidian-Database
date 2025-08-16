@@ -9,3 +9,4 @@ metasploit-framework - для создания эксплойтов
 setoolkit - для соц.инженерии
 
 sqlmap - автоматизация sql-injection
+

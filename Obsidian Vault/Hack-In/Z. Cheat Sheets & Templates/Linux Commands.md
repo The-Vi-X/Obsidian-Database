@@ -44,6 +44,9 @@
 `sudo apt update`  
 `sudo apt install [пакет]`
 
+
+## Редактирование текста
+`tr [file]`
 ## Помощь
 `man [команда]`  
 `[команда] --help`  
@@ -56,3 +59,12 @@
 
 ## Удалённый доступ
 `ssh [ip/address] -p [port] -l [login]`
+
+## Форматирование текста
+`uniq [file]`
+`uniq -u [file]`
+`sort [file]`
+
+## Шифрование/дешифрование
+`base64 -d [file]`
+`base64 [file]`
