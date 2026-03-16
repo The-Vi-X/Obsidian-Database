@@ -37,7 +37,7 @@ created: 2025-08-05
 Флаг/Пароль: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 ## 🚪 Переход
--> [Level_10]
+-> [Level_9]
 
 ## 🔗 Ссылки
 - [Название ресурса](URL)

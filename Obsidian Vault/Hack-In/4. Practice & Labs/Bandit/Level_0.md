@@ -40,7 +40,7 @@ created: 2025-07-31
 Флаг/Пароль: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
 
 ## 🚪 Переход
--> [[Level_1]]
+-> [[Level_0]]
 
 ## 🔗 Ссылки
 - [Статья об SSH Protocol на википедии ](https://en.wikipedia.org/wiki/Secure_Shell)

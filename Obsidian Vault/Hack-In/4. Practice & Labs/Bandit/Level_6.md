@@ -36,7 +36,7 @@ created: 2025-08-03
 Флаг/Пароль: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ## 🚪 Переход
--> [Level_7]
+-> [Level_6]
 
 ## 🔗 Ссылки
 - [Название ресурса](URL)

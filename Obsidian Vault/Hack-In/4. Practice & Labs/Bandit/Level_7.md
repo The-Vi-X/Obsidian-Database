@@ -36,7 +36,7 @@ created: 2025-08-05
 Флаг/Пароль: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
 ## 🚪 Переход
--> [Level_8]
+-> [Level_7]
 
 ## 🔗 Ссылки
 - [Название ресурса](URL)

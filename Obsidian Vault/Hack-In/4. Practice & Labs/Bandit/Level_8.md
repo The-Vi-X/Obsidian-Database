@@ -36,7 +36,7 @@ created: 2025-08-05
 Флаг/Пароль: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 
 ## 🚪 Переход
--> [Level_9]
+-> [Level_8]
 
 ## 🔗 Ссылки
 - [Пайпы и переадресовки](https://ryanstutorials.net/linuxtutorial/piping.php)

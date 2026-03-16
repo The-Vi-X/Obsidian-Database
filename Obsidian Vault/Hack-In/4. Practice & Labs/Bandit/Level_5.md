@@ -35,7 +35,7 @@ created: 2025-08-01
 Флаг/Пароль: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 ## 🚪 Переход
--> [Level_6]
+-> [Level_5]
 
 ## 🔗 Ссылки
 - [man find](https://www.man7.org/linux/man-pages/man1/find.1.html)

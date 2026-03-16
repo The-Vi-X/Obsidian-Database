@@ -36,7 +36,7 @@ created: 2025-08-16
 Флаг/Пароль: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ## 🚪 Переход
--> [Level_11]
+-> [Level_10]
 
 ## 🔗 Ссылки
 - [Base64](https://en.wikipedia.org/wiki/Base64)
