@@ -186,8 +186,9 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "Hack-In/4. Practice & Labs/Bandit/Level_11.md",
+    "Hack-In/0. Fundamentals/Linux Fundamentals.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_12.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_11.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_0.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_1.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_2.md",
@@ -211,7 +212,6 @@
     "Hack-In.md",
     "2025-07-21.md",
     "Hack-In/2. Protocols/SSH.md",
-    "Hack-In/1. Tools Mastering/nmap.md",
-    "Hack-In/1. Tools Mastering/bash.md"
+    "Hack-In/1. Tools Mastering/nmap.md"
   ]
 }

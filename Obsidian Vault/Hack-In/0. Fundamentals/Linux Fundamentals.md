@@ -14,6 +14,7 @@
 * `rm -r dir/` - ⚠️ Удалить папку рекурсивно #linux #command #danger
 * `mkdir project` - Создать папку #linux #command
 * `.` - часть имени файла, делает файл скрытым #linux
+* `mktemp` - создание временного файла или папки #linux #files #folders
 
 [[Работа с текстом]]
 - `tr 'symbols' 'symbols2' [file] ` - команда, которая удаляет, преобразует или заменяет символы по определённым паттернам #linux #command #text
@@ -55,3 +56,4 @@
 
 [[Кодировки]]
 - `base64` - кодирование бинарных файлов (1 и 0) в символы #linux #base64 #encoding
+- `xxd` - конвертация файлов в HEX и обратно #linux #hex #encoding
