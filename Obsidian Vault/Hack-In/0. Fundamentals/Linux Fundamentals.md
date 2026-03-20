@@ -53,6 +53,7 @@
 
 [[Удалённый доступ]]
 - `ssh ip -l login` - защищённое соединение к удалённому терминалу #linux #command #ssh #connection
+- `openssl` - защищённое подключение к транспортному протоколу #linux #command #ssl #tls #connection 
 
 [[Кодировки]]
 - `base64` - кодирование бинарных файлов (1 и 0) в символы #linux #base64 #encoding
