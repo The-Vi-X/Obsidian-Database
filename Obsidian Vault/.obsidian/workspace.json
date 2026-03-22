@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/4. Practice & Labs/Bandit/Level_20.md",
+                "file": "Hack-In/4. Practice & Labs/Bandit/Level_24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level_20"
+              "title": "Level_24"
             }
           }
         ]
@@ -186,8 +186,12 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "Hack-In/0. Fundamentals/Linux Fundamentals.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_23.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_24.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_22.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_21.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_20.md",
+    "Hack-In/0. Fundamentals/Linux Fundamentals.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_19.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_17.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_16.md",
@@ -208,10 +212,6 @@
     "Hack-In/4. Practice & Labs/Bandit/Level_7.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_8.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_9.md",
-    "Hack-In/4. Practice & Labs/Bandit/Level_10.md",
-    "Hack-In/4. Practice & Labs/Bandit/Level 0.md",
-    "Hack-In/Z. Cheat Sheets & Templates/Templates/CTF.md",
-    "Hack-In/Z. Cheat Sheets & Templates/Templates/Protocols.md",
     "Untitled.base"
   ]
 }
