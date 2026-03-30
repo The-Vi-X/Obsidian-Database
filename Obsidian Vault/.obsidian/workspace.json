@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/0. Fundamentals/Check Lists/Network Discovering Check List.md",
+                "file": "Hack-In/1. Tools Mastering/php.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Discovering Check List"
+              "title": "php"
             }
           }
         ]
@@ -186,10 +186,14 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "Hack-In/3. Attack Types/Remote OS command injection.md",
+    "Hack-In/1. Tools Mastering/nmap.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_11-12.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_10-11.md",
+    "Hack-In/1. Tools Mastering/php.md",
+    "Hack-In/0. Fundamentals/Linux Fundamentals.md",
     "Hack-In/0. Fundamentals/Check Lists/Network Discovering Check List.md",
     "Hack-In/4. Practice & Labs/Natas/Level_9-10.md",
-    "Hack-In/0. Fundamentals/Linux Fundamentals.md",
+    "Hack-In/3. Attack Types/Remote OS command injection.md",
     "Hack-In/4. Practice & Labs/Natas/Level_8-9.md",
     "Hack-In/4. Practice & Labs/Natas/Level_3-4.md",
     "Hack-In/4. Practice & Labs/Natas/Level_2-3.md",
@@ -211,10 +215,6 @@
     "Hack-In/4. Practice & Labs/Bandit/Level_32.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_30.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_33.md",
-    "Hack-In/1. Tools Mastering/git.md",
-    "Hack-In/1. Tools Mastering/bash.md",
-    "Hack-In/4. Practice & Labs/Bandit/Level_19.md",
-    "Hack-In/4. Practice & Labs/Bandit/Level_18.md",
     "Untitled.base"
   ]
 }
