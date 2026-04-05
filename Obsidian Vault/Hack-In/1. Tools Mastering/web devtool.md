@@ -1,0 +1,1 @@
+`document.cookie = "data=data; path=/";` - заменя данных кукисов
