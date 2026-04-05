@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/4. Practice & Labs/Natas/Level_15-16.md",
+                "file": "Hack-In/4. Practice & Labs/Natas/Level_17-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level_15-16"
+              "title": "Level_17-18"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#BashTime-BasedSQL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,9 +186,20 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "Hack-In/5. Scripts/Bash Blind SQL Injection brute-force.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_15-16.md",
+    "Hack-In/5. Scripts/Bash Time-Based SQL Injection Brute-force.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_17-18.md",
+    "Hack-In/5. Scripts/Bash Blind SQL Injection brute-force natas15.md",
+    "Hack-In/5. Scripts/Python Blind RCE brute force natas16.md",
+    "Hack-In/1. Tools Mastering/bash.md",
+    "Передача данных.md",
+    "Hack-In/1. Tools Mastering/curl.md",
+    "Bash Time-Based SQL.md",
+    "Спецсимволы.md",
     "Hack-In/4. Practice & Labs/Natas/Level_14-15.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_13-14.md",
+    "Hack-In/Z. Cheat Sheets & Templates/Templates/CTF.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_15-16.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_12-13.md",
     "Payload_From_Git",
     "0. Fundamentals.md",
     "2025-07-21.md",
@@ -201,19 +212,9 @@
     "Hack-In/4. Practice & Labs/Natas/Level_9-10.md",
     "Hack-In/4. Practice & Labs/Natas/Level_10-11.md",
     "Hack-In/4. Practice & Labs/Natas/Level_11-12.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_13-14.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_12-13.md",
     "Hack-In/3. Attack Types/SQL Injection.md",
     "Hack-In/5. Scripts",
     "Hack-In/4. Practice & Labs/Natas/Level_8-9.md",
-    "Hack-In/0. Fundamentals/Check Lists/Network Discovering Check List.md",
-    "Hack-In/3. Attack Types/File Injection.md",
-    "Hack-In/3. Attack Types/Remote OS command injection.md",
-    "Hack-In/1. Tools Mastering/nmap.md",
-    "Hack-In/0. Fundamentals/Linux Fundamentals.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_3-4.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_2-3.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_1-2.md",
     "Hack-In/3. Attack Types",
     "Hack-In/0. Fundamentals/Check Lists",
     "Hack-In/4. Practice & Labs/Natas"
