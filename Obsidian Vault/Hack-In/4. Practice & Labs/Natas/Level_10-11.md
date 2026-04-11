@@ -36,6 +36,7 @@ created: 2026-03-30
 | 6   | преобразование hex с ключём eDWo с помощью XOR в новый hex               |                                                                                                                    |
 | 7   | преобразование нового hex в текст и текст в bash                         | echo "1e6624070a33270e1637200017207555473d321c4768750d022738030a36755547673109032231094739" \| xxd -r -p \| base64 |
 | 8   | Замена нового баш куки и получение пароля в дебаг выводе                 | document.cookie = "data=HmYkBwoSNDYcFhIrJQtHX2YuChZHaHUNAgYrOwAXR351TAMDIjEJA0c5; path=/";                         |
+|     |                                                                          |                                                                                                                    |
 
 ## 🔍 Результат
 Флаг/Пароль: yZdkjAYZRd3R7tq7T5kXMjMJlOIkzDeB
