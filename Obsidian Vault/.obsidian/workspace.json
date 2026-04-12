@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/4. Practice & Labs/Natas/Level_31-32.md",
+                "file": "Hack-In/4. Practice & Labs/Natas/Level_32-33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level_31-32"
+              "title": "Level_32-33"
             }
           }
         ]
@@ -184,10 +184,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c47ea1178bd25f1",
+  "active": "e401c7d688292679",
   "lastOpenFiles": [
-    "Hack-In/4. Practice & Labs/Natas/Level_30-31.md",
     "Hack-In/4. Practice & Labs/Natas/Level_31-32.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_30-31.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_32-33.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_32.md",
     "Hack-In/1. Tools Mastering/perl.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_33.md",
@@ -211,7 +212,6 @@
     "Hack-In/4. Practice & Labs/Natas/Level_11-12.md",
     "Hack-In/4. Practice & Labs/Natas/Level_12-13.md",
     "Hack-In/4. Practice & Labs/Natas/Level_13-14.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_14-15.md",
     "Payload_From_Git",
     "Untitled.base",
     "Hack-In/5. Scripts",
