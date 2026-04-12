@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/4. Practice & Labs/Natas/Level_18-19.md",
+                "file": "Hack-In/4. Practice & Labs/Natas/Level_29-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level_18-19"
+              "title": "Level_29-30"
             }
           }
         ]
@@ -186,10 +186,13 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "Hack-In/4. Practice & Labs/Natas/Level_19-20.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_29-30.md",
+    "Hack-In/1. Tools Mastering/jquery.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_5.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_6.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_8.md",
     "Hack-In/4. Practice & Labs/Natas/Level_18-19.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_19-20.md",
+    "Hack-In/4. Practice & Labs/Natas/Level_29-30.md",
     "Hack-In/4. Practice & Labs/Natas/Level_11-12.md",
     "Hack-In/4. Practice & Labs/Natas/Level_12-13.md",
     "Hack-In/4. Practice & Labs/Natas/Level_13-14.md",
@@ -209,9 +212,6 @@
     "Hack-In/4. Practice & Labs/Bandit/Level_33.md",
     "Hack-In/3. Attack Types/Redirect Intercept.md",
     "Hack-In/3. Attack Types/Remote OS command injection.md",
-    "Hack-In/3. Attack Types/Session Prediction.md",
-    "Hack-In/3. Attack Types/SQL Injection.md",
-    "Hack-In/3. Attack Types/Type Juggling.md",
     "Payload_From_Git",
     "Untitled.base",
     "Hack-In/5. Scripts",
