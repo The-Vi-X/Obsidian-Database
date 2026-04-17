@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/4. Practice & Labs/Natas/Level_15-16.md",
+                "file": "Hack-In/4. Practice & Labs/Narnia/Narnia_0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level_15-16"
+              "title": "Narnia_0"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
+    "Hack-In/4. Practice & Labs/Natas/Level_15-16.md",
     "Hack-In/5. Scripts/Bash Blind SQL.md",
     "Hack-In/4. Practice & Labs/Narnia/Narnia_0.md",
     "Hack-In/1. Tools Mastering/reverse engineering/checksec.md",
@@ -213,7 +214,6 @@
     "Hack-In/4. Practice & Labs/Leviathan/Leviathan_3-4.md",
     "Hack-In/4. Practice & Labs/Leviathan/Leviathan_2-3.md",
     "Hack-In/4. Practice & Labs/Leviathan/Leviathan_1-2.md",
-    "Hack-In/1. Tools Mastering/reverse engineering/ltrace.md",
     "Hack-In/1. Tools Mastering/reverse engineering",
     "Hack-In/4. Practice & Labs/Leviathan",
     "Payload_From_Git",
