@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/4. Practice & Labs/Bandit/Level_6.md",
+                "file": "Hack-In/4. Practice & Labs/Narnia/Narnia_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Level_6"
+              "title": "Narnia_2"
             }
           }
         ]
@@ -186,12 +186,16 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
+    "Hack-In/4. Practice & Labs/Bandit/Level_7.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_8.md",
     "Hack-In/4. Practice & Labs/Narnia/Narnia_2.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_6.md",
+    "Hack-In/4. Practice & Labs/Bandit/Level_5.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_1.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_0.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_4.md",
     "Hack-In/Z. Cheat Sheets & Templates/Templates/CTF.md",
     "Hack-In/4. Practice & Labs/Natas/Level_27-28.md",
-    "Hack-In/4. Practice & Labs/Narnia/Narnia_1.md",
-    "Hack-In/4. Practice & Labs/Narnia/Narnia_0.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_32.md",
     "Hack-In/4. Practice & Labs/Bandit/Level_33.md",
     "Hack-In/2. Protocols/SSH.md",
@@ -209,10 +213,6 @@
     "Hack-In/4. Practice & Labs/Krypton/Krypton_5-6.md",
     "Hack-In/4. Practice & Labs/Krypton/Krypton_4-5.md",
     "Hack-In/4. Practice & Labs/Krypton/Krypton_3-4.md",
-    "Hack-In/4. Practice & Labs/Krypton/Krypton_2-3.md",
-    "Hack-In/4. Practice & Labs/Krypton/Krypton_1-2.md",
-    "Hack-In/4. Practice & Labs/Krypton/Krypton_0-1.md",
-    "Hack-In/4. Practice & Labs/Bandit/Level_1.md",
     "Hack-In/4. Practice & Labs/Krypton",
     "Hack-In/1. Tools Mastering/reverse engineering",
     "Hack-In/4. Practice & Labs/Leviathan",
