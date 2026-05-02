@@ -1,1 +1,2 @@
-`$(python3 -c 'import sys; sys.stdout.buffer.write(b"\x90" * 264)')` - заполнение нопами
+`$(python3 -c 'import sys; sys.stdout.buffer.write()')` 
+```"`python3 -c 'import sys; sys.stdout.buffer.write()'`"```
