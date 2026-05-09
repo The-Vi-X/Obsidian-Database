@@ -1,0 +1,3 @@
+you are l33t! next plz...
+
+(Please don't post writeups, solutions or spoilers about the games on the web. Thank you!)
