@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/4. Practice & Labs/Behemoth/Behemoth_0.md",
+                "file": "Hack-In/1. Tools Mastering/reverse engineering/pwn/payload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Behemoth_0"
+              "title": "payload"
             }
           }
         ]
@@ -174,20 +174,36 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "Hack-In/4. Practice & Labs/Natas/Level_12-13.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/basic.md",
+    "Hack-In/4. Practice & Labs/Behemoth/Behemoth_1.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/pwn/pwndbg.md",
+    "Hack-In/5. Scripts/C getaddr of shellcode.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/assembly/x86/instructions.md",
+    "Hack-In/5. Scripts/Payloads/shellcodes.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/pwn/payload.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
     "Hack-In/4. Practice & Labs/Behemoth/Behemoth_0.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_7.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_8.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_0.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_9.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_4.md",
+    "Hack-In/4. Practice & Labs/Narnia/Narnia_6.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/assembly/x86",
+    "Hack-In/1. Tools Mastering/reverse engineering/assembly",
+    "Hack-In/4. Practice & Labs/Natas/Level_12-13.md",
     "Hack-In/4. Practice & Labs/Behemoth/Le.md",
     "Hack-In/4. Practice & Labs/Behemoth",
     "Hack-In/1. Tools Mastering/php.md",
@@ -199,28 +215,12 @@
     "Hack-In/4. Practice & Labs/Natas/Level_7-8.md",
     "Hack-In/4. Practice & Labs/Natas/Level_6-7.md",
     "Hack-In/4. Practice & Labs/Natas/Level_5-6.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_4-5.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_3-4.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_2-3.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_0.md",
-    "Kali Linux/01 - Reconnaissance (разведка).md",
-    "Hack-In/4. Practice & Labs/Real/Mercatus.md",
-    "Kali Linux/02 - Resource Development (Подготовка ресурсов).md",
-    "Hack-In/1. Tools Mastering/nmap.md",
-    "Hack-In/1. Tools Mastering/jquery.md",
-    "Hack-In/3. Attack Types/XSS.md",
-    "Hack-In/1. Tools Mastering/perl.md",
-    "Hack-In/1. Tools Mastering/reverse engineering/ltrace.md",
-    "Hack-In/1. Tools Mastering/reverse engineering/objdump.md",
-    "Hack-In/1. Tools Mastering/bash.md",
     "Hack-In/4. Practice & Labs/Real",
     "Hack-In/5. Scripts/Payloads",
     "Hack-In/1. Tools Mastering/reverse engineering/pwn",
     "Hack-In/4. Practice & Labs/Narnia",
     "Hack-In/4. Practice & Labs/Krypton",
     "Hack-In/1. Tools Mastering/reverse engineering",
-    "Hack-In/4. Practice & Labs/Leviathan",
-    "Payload_From_Git",
-    "Untitled.base"
+    "Hack-In/4. Practice & Labs/Leviathan"
   ]
 }
