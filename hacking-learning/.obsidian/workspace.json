@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hack-In/1. Tools Mastering/reverse engineering/pwn/payload.md",
+                "file": "Hack-In/3. Attack Types/Binary Exploitation/Hijack binary execution with $PATH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "payload"
+              "title": "Hijack binary execution with $PATH"
             }
           }
         ]
@@ -186,15 +186,22 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "Hack-In/1. Tools Mastering/reverse engineering/basic.md",
+    "Hack-In/4. Practice & Labs/Behemoth/Behemoth_2.md",
+    "Hack-In/3. Attack Types/Binary Exploitation/Hijack binary execution with $PATH.md",
+    "Hack-In/3. Attack Types/Binary Exploitation",
+    "Hack-In/Z. Cheat Sheets & Templates/Templates/CTF.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
+    "Hack-In/4. Practice & Labs/Leviathan/Leviathan_2-3.md",
+    "Hack-In/4. Practice & Labs/Leviathan/Leviathan_1-2.md",
+    "Hack-In/4. Practice & Labs/Leviathan/Leviathan_0.md",
     "Hack-In/4. Practice & Labs/Behemoth/Behemoth_1.md",
+    "Hack-In/4. Practice & Labs/Behemoth/Behemoth_0.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/pwn/payload.md",
+    "Hack-In/1. Tools Mastering/reverse engineering/basic.md",
     "Hack-In/1. Tools Mastering/reverse engineering/pwn/pwndbg.md",
     "Hack-In/5. Scripts/C getaddr of shellcode.md",
     "Hack-In/1. Tools Mastering/reverse engineering/assembly/x86/instructions.md",
     "Hack-In/5. Scripts/Payloads/shellcodes.md",
-    "Hack-In/1. Tools Mastering/reverse engineering/pwn/payload.md",
-    "Hack-In/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
-    "Hack-In/4. Practice & Labs/Behemoth/Behemoth_0.md",
     "Hack-In/4. Practice & Labs/Narnia/Narnia_7.md",
     "Hack-In/4. Practice & Labs/Narnia/Narnia_8.md",
     "Hack-In/4. Practice & Labs/Narnia/Narnia_0.md",
@@ -209,18 +216,11 @@
     "Hack-In/1. Tools Mastering/php.md",
     "Hack-In/1. Tools Mastering/web devtool.md",
     "Hack-In/4. Practice & Labs/Natas/Level_11-12.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_10-11.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_9-10.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_8-9.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_7-8.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_6-7.md",
-    "Hack-In/4. Practice & Labs/Natas/Level_5-6.md",
     "Hack-In/4. Practice & Labs/Real",
     "Hack-In/5. Scripts/Payloads",
     "Hack-In/1. Tools Mastering/reverse engineering/pwn",
     "Hack-In/4. Practice & Labs/Narnia",
     "Hack-In/4. Practice & Labs/Krypton",
-    "Hack-In/1. Tools Mastering/reverse engineering",
-    "Hack-In/4. Practice & Labs/Leviathan"
+    "Hack-In/1. Tools Mastering/reverse engineering"
   ]
 }
