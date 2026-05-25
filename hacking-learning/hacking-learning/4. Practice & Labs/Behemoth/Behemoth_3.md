@@ -29,16 +29,16 @@ created: 2026-05-24
 
 ## 🎯 Tools
 
-| Tool | Destination | Usage |
-| ---- | ----------- | ----- |
-|      |             |       |
+| Tool             | Destination                             | Usage                            |
+| ---------------- | --------------------------------------- | -------------------------------- |
+| `fmtstr_payload` | create payload for format string attack | `fmtstr_payload(arg,addr1,add2)` |
 ## 📚 Key commands/technics
 
-| Coomand | Desctiption |
-| ------- | ----------- |
-|         |             |
-|         |             |
-|         |             |
+| Coomand                | Desctiption                      |
+| ---------------------- | -------------------------------- |
+| `objdump -R behemoth3` | find GOT address, for now - PUTS |
+|                        |                                  |
+|                        |                                  |
 
 ## 💡 Step by step
 

