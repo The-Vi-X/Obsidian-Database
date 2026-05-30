@@ -1,6 +1,7 @@
 ---
 tags:
   - ctf
+  - "#format_string"
 created: 2026-05-24
 ---
 
