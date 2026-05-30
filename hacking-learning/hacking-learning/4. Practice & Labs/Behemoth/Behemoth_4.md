@@ -1,6 +1,8 @@
 ---
 tags:
   - ctf
+  - "#binary_hijack"
+  - "#behemoth_4"
 created: 2026-05-26
 ---
 
