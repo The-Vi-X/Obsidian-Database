@@ -1,8 +1,8 @@
 ---
 tags:
   - ctf
-  - "#binary_hijack"
   - "#behemoth_4"
+  - "#hijack_execution_race_condition"
 created: 2026-05-26
 ---
 
@@ -19,14 +19,14 @@ created: 2026-05-26
 | Password  | hpjUdlG723                    |
 
 ## 🎯 Task of the leves
-- hijack file execution
+- hijack file execution with race condition
 ## 🎯 Information
 
 | Type of information | Data                                 |
 | ------------------- | ------------------------------------ |
 | attack type         | `hijack file execution`              |
 | program work        | program try create file in /tmp/$PID |
-| program work        | program try open created file        |
+| program work        | program try read created file        |
 
 ## 🎯 Tools
 
@@ -57,7 +57,7 @@ created: 2026-05-26
 Flag: mVfC4rBKZ4
 
 ## 🚪 Travel
--> [Level_N]
+-> [Behemoth_4]
 
 ## 🔗 Link
 - [Название ресурса](URL)

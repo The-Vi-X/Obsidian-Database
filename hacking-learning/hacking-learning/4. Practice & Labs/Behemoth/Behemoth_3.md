@@ -56,7 +56,7 @@ created: 2026-05-24
 Flag: hpjUdlG723
 
 ## 🚪 Travel
--> [Level_3]
+-> [Behemoth_3]
 
 ## 🔗 Link
 - [Название ресурса](URL)
