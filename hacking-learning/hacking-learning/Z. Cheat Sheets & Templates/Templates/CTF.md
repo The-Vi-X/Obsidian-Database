@@ -15,7 +15,7 @@ created: YYYY-MM-DD
 | Login     |       |
 | Password  |       |
 
-## 🎯 Task of the leves
+## 🎯 Task of the level
 - 
 ## 🎯 Information
 
