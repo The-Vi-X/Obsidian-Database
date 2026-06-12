@@ -2,7 +2,7 @@
 tags:
   - ctf
   - "#behemoth_6"
-  - "#arbitary_shellcode_execution"
+  - "#arbitary_shellcode_"
 created: 2026-06-03
 ---
 
@@ -17,7 +17,7 @@ created: 2026-06-03
 | Port      | 2221                          |
 | Login     | behemoth6                     |
 | Password  | j9I1wHzfVC                    |
-|           |                               |
+
 
 ## 🎯 Task of the level
 - **Arbitrary Shellcode Execution via String Comparison Bypass**

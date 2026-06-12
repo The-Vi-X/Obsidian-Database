@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking-learning/3. Attack Types/Binary Exploitation/Arbitrary Shellcode Execution.md",
+                "file": "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arbitrary Shellcode Execution"
+              "title": "Behemoth_7"
             }
           }
         ]
@@ -186,17 +186,22 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_6.md",
-    "hacking-learning/3. Attack Types/Binary Exploitation/Arbitrary Shellcode Execution.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwndbg.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/payload.md",
-    "hacking-learning/5. Scripts/Payloads/shellcodes.md",
+    "hacking-learning/3. Attack Types/Binary Exploitation/Buffer Overflow.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/C functions.md",
+    "hacking-learning/3. Attack Types/Binary Exploitation/Arbitrary Shellcode Execution.md",
+    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_7.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/payload.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
+    "hacking-learning/5. Scripts/Payloads/shellcodes.md",
+    "hacking-learning/5. Scripts/Payloads/Format String Python Payload Generator.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/basic.md",
+    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_6.md",
+    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_5.md",
+    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_4.md",
+    "natas30",
     "hacking-learning/1. Tools Mastering/reverse engineering/gcc.md",
     "hacking-learning/Z. Cheat Sheets & Templates/Templates/CTF.md",
-    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_5.md",
     "hacking-learning/3. Attack Types/Binary Exploitation/File Descriptor Hijacking with localhost listening.md",
     "hacking-learning/3. Attack Types/Binary Exploitation/Format String Attack.md",
     "hacking-learning/3. Attack Types/Binary Exploitation/Hijack binary execution with $PATH.md",
@@ -205,13 +210,9 @@
     "hacking-learning/1. Tools Mastering/reverse engineering/gdb.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/objdump.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/ltrace.md",
-    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_4.md",
     "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_3.md",
     "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_2.md",
     "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_1.md",
-    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_0.md",
-    "hacking-learning/Z. Cheat Sheets & Templates/MITRE ATT&CK.md",
-    "hacking-learning/5. Scripts/Payloads/Format String Python Payload Generator.md",
     "hacking-learning/3. Attack Types/Binary Exploitation",
     "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x86",
     "hacking-learning/1. Tools Mastering/reverse engineering/assembly",
@@ -220,7 +221,6 @@
     "hacking-learning/5. Scripts/Payloads",
     "hacking-learning/1. Tools Mastering/reverse engineering/pwn",
     "hacking-learning/4. Practice & Labs/Narnia",
-    "hacking-learning/4. Practice & Labs/Krypton",
-    "hacking-learning/1. Tools Mastering/reverse engineering"
+    "hacking-learning/4. Practice & Labs/Krypton"
   ]
 }
