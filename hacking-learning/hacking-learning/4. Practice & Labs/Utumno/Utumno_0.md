@@ -3,6 +3,7 @@ tags:
   - ctf
   - "#utumno0"
   - "#LD_PRELOAD"
+  - "#format_string"
 created: 2026-06-14
 ---
 
@@ -19,7 +20,7 @@ created: 2026-06-14
 | Password  | utumno0                     |
 
 ## 🎯 Task of the level
-- Do LD_PRELOAD attack
+- Do LD_PRELOAD to perform format string attack
 ## 🎯 Information
 
 | Type of information | Data                                   |
@@ -41,12 +42,12 @@ created: 2026-06-14
 
 ## 💡 Step by step
 
-| Step | Action                                                                            | Information                                 |
-| ---- | --------------------------------------------------------------------------------- | ------------------------------------------- |
-| 1    | try use LD_PRELOAD, because program output message to terminal, try function PUTS |                                             |
-| 2    | gcc hook.c -shared -fPIC -m32 -o hook.so                                          | compile hooker to view if we can LD_PRELOAD |
-| 3    | read password with LD_PRELOAD that coded in program                               | #LD_PRELOAD                                 |
-
+| Step | Action                                                                            | Information                                                               |
+| ---- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1    | try use LD_PRELOAD, because program output message to terminal, try function PUTS |                                                                           |
+| 2    | gcc hook.c -shared -fPIC -m32 -o hook.so                                          | compile hooker to view if we can do LD_PRELOAD to change program working  |
+| 3    | read password with LD_PRELOAD that coded in program                               | #LD_PRELOAD #format_string                                                |
+ 
 ## 🔍 Result
 Flag: ytvWa6DzmL
 

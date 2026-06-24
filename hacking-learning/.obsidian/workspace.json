@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking-learning/1. Tools Mastering/reverse engineering/gcc.md",
+                "file": "hacking-learning/4. Practice & Labs/Utumno/Utumno_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gcc"
+              "title": "Utumno_1"
             }
           }
         ]
@@ -186,16 +186,18 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "hacking-learning/1. Tools Mastering/reverse engineering/gdb.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwndbg.md",
+    "hacking-learning/4. Practice & Labs/Utumno/Utumno_1.md",
+    "hacking-learning/3. Attack Types/Binary Exploitation/Buffer Overflow.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/C functions.md",
     "hacking-learning/4. Practice & Labs/Utumno/Utumno_0.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/gcc.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/gdb.md",
     "hacking-learning/3. Attack Types/Binary Exploitation/LD_PRELOAD ATTACK.md",
     "hacking-learning/5. Scripts/LD_PRELOAD PUTS.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
     "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_7.md",
     "hacking-learning/4. Practice & Labs/Utumno",
-    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwndbg.md",
-    "hacking-learning/3. Attack Types/Binary Exploitation/Buffer Overflow.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/C functions.md",
     "hacking-learning/3. Attack Types/Binary Exploitation/Arbitrary Shellcode Execution.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/pwn/payload.md",
     "hacking-learning/5. Scripts/Payloads/shellcodes.md",
@@ -205,7 +207,6 @@
     "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_5.md",
     "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_4.md",
     "natas30",
-    "hacking-learning/1. Tools Mastering/reverse engineering/gcc.md",
     "hacking-learning/Z. Cheat Sheets & Templates/Templates/CTF.md",
     "hacking-learning/3. Attack Types/Binary Exploitation/File Descriptor Hijacking with localhost listening.md",
     "hacking-learning/3. Attack Types/Binary Exploitation/Format String Attack.md",
@@ -213,7 +214,6 @@
     "hacking-learning/3. Attack Types/Binary Exploitation/Hijack execution with Race Condition.md",
     "hacking-learning/1. Tools Mastering/nc.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/objdump.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/ltrace.md",
     "hacking-learning/3. Attack Types/Binary Exploitation",
     "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x86",
     "hacking-learning/1. Tools Mastering/reverse engineering/assembly",
