@@ -1,0 +1,8 @@
+я
+
+| register | what mean     | description                          | examples                                                                                                                                                                       | change with                    |
+| -------- | ------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------ |
+| #esp     | stack pointer | point to top of stack                | `esp` - **top** of the stack                                                                                                                                                   | #push<br>#pop<br>#call<br>#ret |
+| #ebp     | base pointer  | point at **fixed position** on stack | `[ebp+0x8]` - first function argument<br>`[ebp+0x4]` - first local variable                                                                                                    | -                              |
+| #eax     | accumulator   | temporary save data for manipulating | ```<br>mov eax, dword [ebp-0x4]<br>add eax, 4<br>mov dword [ebp-0x4], eax<br>```<br>take data from **local variable**, increase it by 4, write data back to **local variable** | #add<br>#sub<br>#mov<br><br>   |
+|          |               |                                      |                                                                                                                                                                                |                                |
