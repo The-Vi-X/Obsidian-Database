@@ -187,10 +187,13 @@
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
     "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x32/registesr.md",
+    "utumno/utumno2/main.asm",
+    "utumno/utumno2",
+    "utumno",
     "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x32/instructions.md",
+    "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x32/data types.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwndbg.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x32/data types.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/Radare2/r2.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/basic.md",
     "hacking-learning/1. Tools Mastering/reverse engineering/R.md",
@@ -214,13 +217,9 @@
     "hacking-learning/3. Attack Types/Binary Exploitation/Arbitrary Shellcode Execution.md",
     "hacking-learning/5. Scripts/Payloads/Format String Python Payload Generator.md",
     "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_6.md",
-    "hacking-learning/4. Practice & Labs/Behemoth/Behemoth_5.md",
     "natas30",
     "hacking-learning/3. Attack Types/Binary Exploitation",
     "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x32",
-    "hacking-learning/1. Tools Mastering/reverse engineering/assembly",
-    "hacking-learning/4. Practice & Labs/Behemoth",
-    "hacking-learning/4. Practice & Labs/Real",
-    "hacking-learning/5. Scripts/Payloads"
+    "hacking-learning/1. Tools Mastering/reverse engineering/assembly"
   ]
 }
