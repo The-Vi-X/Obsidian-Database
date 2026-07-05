@@ -39,28 +39,29 @@
 │       │   0x0804927a      6a01           push 1 ; if var_8h = 0, push 1 to top of stack
 │       │   0x0804927c      e8cffdffff     call sym.imp.exit ; exit with code 1
 │       │   ; CODE XREF from dbg.main @ 0x80492bf(x)
-│      ┌──> 0x08049281      8b45fc         mov eax, dword [s2]
-│      ╎│   0x08049284      83c00b         add eax, 0xb
-│      ╎│   0x08049287      6a03           push 3
-│      ╎│   0x08049289      50             push eax
-│      ╎│   0x0804928a      6808a00408     push 0x804a008
-│      ╎│   0x0804928f      e8fcfdffff     call sym.imp.strncmp
-│      ╎│   0x08049294      83c40c         add esp, 0xc
-│      ╎│   0x08049297      85c0           test eax, eax
-│     ┌───< 0x08049299      7512           jne 0x80492ad
-│     │╎│   0x0804929b      8b45fc         mov eax, dword [s2]
-│     │╎│   0x0804929e      83c00b         add eax, 0xb
-│     │╎│   0x080492a1      83c003         add eax, 3
-│     │╎│   0x080492a4      50             push eax
-│     │╎│   0x080492a5      e81cffffff     call dbg.run
-│     │╎│   0x080492aa      83c404         add esp, 4
+│      ┌──> 0x08049281      8b45fc         mov eax, dword [s2] ; copy to eax s2
+│      ╎│   0x08049284      83c00b         add eax, 0xb ; add to EAX 11
+│      ╎│   0x08049287      6a03           push 3  ; push code 3 to top of stack
+│      ╎│   0x08049289      50             push eax ; push EAX to top of stack
+│      ╎│   0x0804928a      6808a00408     push 0x804a008 ; push address to top of stack
+│      ╎│   0x0804928f      e8fcfdffff     call sym.imp.strncmp ; int strncmp(const char *s1=0x804a008, const char *s2=EAX, size_t n=3);
+            ; send to compare EAX with 0x804a008
+│      ╎│   0x08049294      83c40c         add esp, 0xc ; clear memory
+│      ╎│   0x08049297      85c0           test eax, eax ; test if EAX is zero
+│     ┌───< 0x08049299      7512           jne 0x80492ad ; jump to address if EAX zero
+│     │╎│   0x0804929b      8b45fc         mov eax, dword [s2] ; if EAX not zero, copy to eax s2
+│     │╎│   0x0804929e      83c00b         add eax, 0xb ; ADD to EAX 11
+│     │╎│   0x080492a1      83c003         add eax, 3 ; ADD to EAX 3
+│     │╎│   0x080492a4      50             push eax ; push EAX to top of stack
+│     │╎│   0x080492a5      e81cffffff     call dbg.run ; dbg.run (void *p=3, char *arg_8h=11);
+│     │╎│   0x080492aa      83c404         add esp, 4 ; clear memory 
 │     │╎│   ; CODE XREFS from dbg.main @ 0x8049278(x), 0x8049299(x)
-│     └─└─> 0x080492ad      ff75f8         push dword [var_8h]
-│      ╎    0x080492b0      e8cbfdffff     call sym.imp.readdir
-│      ╎    0x080492b5      83c404         add esp, 4
-│      ╎    0x080492b8      8945fc         mov dword [s2], eax
-│      ╎    0x080492bb      837dfc00       cmp dword [s2], 0
-│      └──< 0x080492bf      75c0           jne 0x8049281
-│           0x080492c1      b800000000     mov eax, 0
-│           0x080492c6      c9             leave
-└           0x080492c7      c3             ret
+│     └─└─> 0x080492ad      ff75f8         push dword [var_8h] ; if EAX = 0, push to top of stack var_8h
+│      ╎    0x080492b0      e8cbfdffff     call sym.imp.readdir ; struct dirent *readdir(DIR *dirp=var_8h);
+│      ╎    0x080492b5      83c404         add esp, 4 ; clear data after function
+│      ╎    0x080492b8      8945fc         mov dword [s2], eax ; copy readdir result to s2
+│      ╎    0x080492bb      837dfc00       cmp dword [s2], 0 ; check if s2 = 0 
+│      └──< 0x080492bf      75c0           jne 0x8049281 ; if s2 != 0 - jump to moment with creatinf s2 variable
+│           0x080492c1      b800000000     mov eax, 0 ; clear EAX
+│           0x080492c6      c9             leave ; leave
+└           0x080492c7      c3             ret ; ret from main
