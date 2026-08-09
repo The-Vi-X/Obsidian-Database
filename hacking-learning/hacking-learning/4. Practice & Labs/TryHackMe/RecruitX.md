@@ -37,10 +37,12 @@ created: 2026-08-09
 
 ## 🎯 Tools
 
-| Tool     | Destination             | Usage                                                                        |
-| -------- | ----------------------- | ---------------------------------------------------------------------------- |
-| nmap     | scan ports, services... | nmap -sV -sC -p- 10.130.184.109                                              |
-| gobuster | scan directories        | gobuster dir -u http://10.130.184.109 -w gobuster-wordlist.txt -x php -x php |
+| Tool     | Destination                                   | Usage                                                                        |
+| -------- | --------------------------------------------- | ---------------------------------------------------------------------------- |
+| nmap     | scan ports, services...                       | nmap -sV -sC -p- 10.130.184.109                                              |
+| gobuster | scan directories                              | gobuster dir -u http://10.130.184.109 -w gobuster-wordlist.txt -x php -x php |
+| curl     | communication with web application in console |                                                                              |
+| ncat     | used for activate port listener               |                                                                              |
 ## 📚 Key commands/technics
 
 | Coomand | Desctiption |

@@ -38,11 +38,11 @@ created: YYYY-MM-DD
 
 ## 💡 Step by step
 
-| Step | Action | Information |
-| ---- | ------ | ----------- |
-| 1    |        |             |
-| 2    |        |             |
-| 3    |        |             |
+| Step | Action | Information | Reason |
+| ---- | ------ | ----------- | ------ |
+| 1    |        |             |        |
+| 2    |        |             |        |
+| 3    |        |             |        |
 
 ## 🔍 Result
 Flag:
