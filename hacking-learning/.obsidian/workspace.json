@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking-learning/4. Practice & Labs/TryHackMe/Guided_Pentest_Infra_v3.md",
+                "file": "hacking-learning/3. Attack Types/SQL Injections/Union-Based SQL Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guided_Pentest_Infra_v3"
+              "title": "Union-Based SQL Injection"
             }
           }
         ]
@@ -188,8 +188,11 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "hacking-learning/1. Tools Mastering/metasploit/Metasploit Framework.md",
     "hacking-learning/4. Practice & Labs/TryHackMe/Guided_Pentest_Infra_v3.md",
+    "hacking-learning/3. Attack Types/SQL Injections/Union-Based SQL Injection.md",
+    "hacking-learning/3. Attack Types/SQL Injections/Untitled",
+    "hacking-learning/3. Attack Types/SQL Injections",
+    "hacking-learning/1. Tools Mastering/metasploit/Metasploit Framework.md",
     "hacking-learning/1. Tools Mastering/metasploit",
     "hacking-learning/4. Practice & Labs/TryHackMe/RecruitX.md",
     "hacking-learning/Z. Cheat Sheets & Templates/Android APK Modify.md",
@@ -220,8 +223,6 @@
     "hacking-learning/1. Tools Mastering/reverse engineering/basic.md",
     "utumno/utumno2/main.asm",
     "utumno/utumno2",
-    "utumno",
-    "hacking-learning/1. Tools Mastering/reverse engineering/R.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/Radare2/Untitled"
+    "hacking-learning/1. Tools Mastering/reverse engineering/R.md"
   ]
 }
