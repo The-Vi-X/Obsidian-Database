@@ -72,7 +72,7 @@ created: 2026-08-09
 Flag: THM{ch41n3d_vulns_4r3_d3v4st4t1ng}
 
 ## 🚪 Travel
--> [Level_N]
+-> [tryhackme]
 
 ## 🔗 Link
 - [Название ресурса](URL)
