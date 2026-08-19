@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hacking-learning/4. Practice & Labs/TryHackMe/Error-Based SQL Injection Practice.md",
+                "file": "hacking-learning/4. Practice & Labs/TryHackMe/Content Discovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Error-Based SQL Injection Practice"
+              "title": "Content Discovery"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1bbc823d207e2606",
@@ -188,40 +188,40 @@
   },
   "active": "7c47ea1178bd25f1",
   "lastOpenFiles": [
-    "hacking-learning/4. Practice & Labs/TryHackMe/RecruitX.md",
-    "hacking-learning/4. Practice & Labs/TryHackMe/Guided_Pentest_Infra_v3.md",
-    "hacking-learning/4. Practice & Labs/TryHackMe/Error-Based SQL Injection Practice.md",
-    "hacking-learning/3. Attack Types/SQL Injections/Union-Based SQL Injection.md",
-    "hacking-learning/3. Attack Types/SQL Injections/Time-Based Blind SQL Injection.md",
-    "hacking-learning/3. Attack Types/SQL Injections/Boolean-Based Blind SQL Injection 1.md",
-    "hacking-learning/1. Tools Mastering/jquery.md",
+    "hacking-learning/1. Tools Mastering/OSINT/Wappalyzer.md",
+    "hacking-learning/4. Practice & Labs/TryHackMe/Content Discovery.md",
     "hacking-learning/1. Tools Mastering/curl.md",
-    "hacking-learning/5. Scripts/Bash Blind SQL.md",
-    "hacking-learning/3. Attack Types/SQL Injection.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_13-14.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_12-13.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_15-16.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_17-18.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_18-19.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_14-15.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_19-20.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_20-21.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_21-22.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_22-23.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_23-24.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_24-25.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_25-26.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_26-27.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_27-28.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_28-29.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_29-30.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_30-31.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_31-32.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_32-33.md",
+    "hacking-learning/4. Practice & Labs/OverTheWire/Natas/Level_33-34.md",
+    "hacking-learning/4. Practice & Labs/TryHackMe/Error-Based SQL Injection Practice.md",
+    "hacking-learning/4. Practice & Labs/TryHackMe/RecruitX.md",
     "hacking-learning/3. Attack Types/SQL Injections/Untitled",
     "hacking-learning/3. Attack Types/SQL Injections",
-    "hacking-learning/1. Tools Mastering/metasploit/Metasploit Framework.md",
     "hacking-learning/1. Tools Mastering/metasploit",
-    "hacking-learning/Z. Cheat Sheets & Templates/Android APK Modify.md",
-    "hacking-learning/Z. Cheat Sheets & Templates/Templates/CTF.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/android.md",
-    "hacking-learning/1. Tools Mastering/SCANNING/gobuster.md",
-    "hacking-learning/1. Tools Mastering/SCANNING/nmap.md",
-    "hacking-learning/1. Tools Mastering/bash.md",
     "hacking-learning/1. Tools Mastering/SCANNING",
-    "hacking-learning/1. Tools Mastering/Untitled.md",
-    "hacking-learning/4. Practice & Labs/TryHackMe/Guided Pentest Web.md",
-    "hacking-learning/1. Tools Mastering/OSINT/Sites/Sites Cheatsheet.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/payload.md",
-    "hacking-learning/1. Tools Mastering/OSINT/Sites/SHODAN.md",
     "hacking-learning/1. Tools Mastering/OSINT/Sites",
     "hacking-learning/1. Tools Mastering/OSINT",
     "hacking-learning/4. Practice & Labs/OverTheWire",
     "hacking-learning/4. Practice & Labs/TryHackMe",
-    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwndbg.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/assembly/x32/registesr.md",
-    "hacking-learning/1. Tools Mastering/reverse engineering/pwn/pwn init.md",
-    "hacking-learning/4. Practice & Labs/OverTheWire/Utumno/Utumno_1.md",
     "utumno/utumno2/main.asm",
     "utumno/utumno2"
   ]
