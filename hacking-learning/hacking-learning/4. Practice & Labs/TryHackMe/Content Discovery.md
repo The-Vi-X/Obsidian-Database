@@ -70,7 +70,7 @@ Flag4: THM{INVALID_DIRECTORY_PERMISSIONS}
 Flag5: THM{CHANGE_DEFAULT_CREDENTIALS}
 
 ## 🚪 Travel
--> [Level_N]
+->-> [tryhackme]
 
 ## 🔗 Link
 - [Название ресурса](URL)
